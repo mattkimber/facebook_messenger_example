@@ -1,0 +1,14 @@
+{
+  "name": "chatbot-example",
+  "version": "0.0.0",
+  "description": "Lambda functions for Facebook Messenger bot example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Kimber",
+  "license": "NONE",
+  "dependencies": {
+    "request": "~2.74.0"
+  }
+}
